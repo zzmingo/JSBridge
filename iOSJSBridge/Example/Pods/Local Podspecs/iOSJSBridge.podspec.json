@@ -1,0 +1,27 @@
+{
+  "name": "iOSJSBridge",
+  "version": "0.1.0",
+  "summary": "A short description of iOSJSBridge.",
+  "description": "A JSBridge for iOS WKWebView",
+  "homepage": "https://github.com/zzmingo/iOSJSBridge",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mingo": "zhang.zhengming@uneed.com"
+  },
+  "source": {
+    "git": "https://github.com/mingo/iOSJSBridge.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iOSJSBridge/Classes/**/*",
+  "dependencies": {
+    "SwiftyJSON": [
+
+    ]
+  }
+}

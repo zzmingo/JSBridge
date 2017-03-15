@@ -1,0 +1,6 @@
+framework module iOSJSBridge {
+  umbrella header "iOSJSBridge-umbrella.h"
+
+  export *
+  module * { export * }
+}
